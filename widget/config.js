@@ -1,6 +1,6 @@
 function getConfig() {
   return {
-      name: "Pixibo-Widget"
+      name: "React-Widget"
   }
 }
 

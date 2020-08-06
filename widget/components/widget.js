@@ -36,7 +36,7 @@ class Widget extends React.Component {
 				</Modal>
 				<div>
 					<button className='button' onClick={this.clickShowModal}>
-						Pixibo Modal
+						React Modal
 					</button>
 				</div>
 			</div>
