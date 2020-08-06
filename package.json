@@ -1,0 +1,29 @@
+{
+  "name": "embeddable-widget-example",
+  "version": "1.0.0",
+  "description": "How to make embeddable widget with react or regular javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuaditrockz/embeddable-widget-example.git"
+  },
+  "keywords": [
+    "widget",
+    "javascript",
+    "react",
+    "html"
+  ],
+  "author": "Fuadit Muhammad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuaditrockz/embeddable-widget-example/issues"
+  },
+  "homepage": "https://github.com/fuaditrockz/embeddable-widget-example#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
