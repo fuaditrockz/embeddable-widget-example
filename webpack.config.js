@@ -3,9 +3,9 @@ const webpack = require('webpack');
 var copyWebpackPlugin = require('copy-webpack-plugin');
 const bundleOutputDir = './dist';
 
-module.exports = (env) => {
+module.exports = () => {
     return [{
-        entry: './index.js',
+        entry: './widget',
         mode: 'production',
         output: {
             filename: 'widget.js',
